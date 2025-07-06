@@ -1,0 +1,1 @@
+This project simulates a complete enterprise network for a fictional company using Cisco Packet Tracer. It includes segmented VLANs for departments, DHCP for automatic VLAN-specific IP address assignment, ACLs for security, wireless and wired infrastructure, remote access simulation (SSH-based), and simulates internet connectivity. 
